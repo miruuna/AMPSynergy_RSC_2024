@@ -1,1 +1,1 @@
-# AMP_conformational_flexibility_paper_data
+Data and scripts for the paper **Unsupervised learning elucidates the interplay between conformational flexibility and aggregation in synergistic antimicrobial peptides**
